@@ -28,4 +28,4 @@ isso permite o usuário navegar no app e salvar seus filmes que ele quer assisti
 
 
 # Layout do Projeto
-![Mobile](https://github.com/luuizalberto/React-Native-Insider4.0/blob/main/src/assets/layout%20mobile%20React%20Prime.png)
+![Layout](https://github.com/luuizalberto/assets/blob/main/images/layout%20mobile%20React%20Prime.png)
